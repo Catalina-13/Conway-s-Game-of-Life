@@ -1,13 +1,6 @@
 import weakref
 import math
 
-# Alexandra-Catalina Negoita + Nykyta Ostapliuk
-GROUP = [
-    "alexandra-catalina.negoita@polytechnique.edu",
-    "nykyta.ostapliuk@polytechnique.edu"
-]
-
-
 class Universe:
     def round(self):
         """Compute (in place) the next generation of the universe"""
